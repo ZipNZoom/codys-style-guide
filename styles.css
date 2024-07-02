@@ -1,0 +1,266 @@
+
+html  ul{
+    color: black;
+    list-style: none;
+}
+ul{
+   color: black;
+
+
+;
+}
+
+
+
+
+
+
+
+/* Header */
+header {
+color: black;
+border: 1px solid black;
+background-color: bisque;
+}
+
+
+
+
+
+
+
+/* colors */
+
+.color{
+    border: 1px solid black;
+    background-color: antiquewhite;
+    margin-top: 3px;
+}
+
+.color h1{
+    text-align: center;
+}
+
+.color h5{
+    font-size: larger;
+}
+
+.color p{
+    text-align: center;
+}
+
+.color #grid {
+    text-align: center;
+    display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-template-rows: 100px;
+   column-gap: 10%;
+   padding: 0 10px 10px 10px;
+}
+#green{
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 25px;
+    border-bottom: 8px solid black;
+}
+
+#red{
+    background-color: red;
+    border: 1px solid black;
+    border-radius: 25px;
+    border-bottom: 8px solid black;
+}
+
+#blue{
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 25px;
+    border-bottom: 8px solid black;
+}
+
+#blue:hover{
+    border-bottom: 0px solid black;
+    margin-top: 5px;
+}
+
+#red:hover{
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+}
+
+#green:hover{
+    border-bottom: 0px solid black;
+    margin-top: 5px;
+}
+
+/* fonts */
+
+.fonts{
+    border: 1px solid black;
+    margin-top: 3px;
+    background-color:antiquewhite;
+}
+
+.fonts h1{
+    text-align: center;
+}
+
+.fonts p{
+   text-align: center;
+    width: 100%;
+}
+
+.fonts #grid {
+    text-align: center;
+    display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-template-rows: 100px;
+   column-gap: 10%;
+   padding: 0 10px 10px 10px;
+}
+
+#bonanova{
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 3px dotted black;
+    border-radius: 100px;
+    background-color:blanchedalmond;
+}
+
+#bonanova:hover{
+   font-size: larger;
+   
+}
+
+#gamaamli{
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: 3px dotted black;
+    border-radius: 100px;
+    background-color:blanchedalmond;
+}
+
+#gamaamli:hover{
+    font-size: larger;
+}
+
+#playwrite{
+        font-family: "Playwrite ES Deco", cursive;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        border: 3px dotted black;
+        border-radius: 100px;
+        background-color:blanchedalmond;
+}
+
+#playwrite:hover{
+    font-size: larger;
+}
+
+/* element */
+
+.element{
+   color: black;
+   border: 1px solid black;
+   margin-top: 3px;
+   background-color:antiquewhite;
+}
+
+.element h1{
+    text-align: center;
+}
+
+.element p{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.element table{
+   width: 100%;
+   text-align: center;
+   border: 1px solid black;
+   table-layout: fixed;
+   margin: 10px auto;
+   border-left: none;
+   border-right: none;
+}
+
+.header td{
+    font-weight: bold;
+}
+
+.element td{
+    border: 1px solid black;
+}
+
+.element td:hover{
+    background-color: cornsilk;
+}
+
+#smallfont{
+    font-size: small;
+}
+
+#normalfont{
+    font-size: normal;
+}
+
+#largefont{
+    font-size: large;
+}
+
+#thinfont{
+    font-weight: lighter;
+}
+
+#thickfont{
+    font-weight: bolder;
+}
+
+#littlespace{
+    letter-spacing: 0.00005px;
+}
+
+#largespace{
+    letter-spacing: 10px;
+}
+
+
+/* conclusion */
+
+.conclusion{
+    border: 1px solid black;
+    margin-top: 4px;
+    background-color: antiquewhite;
+}
+
+
+
+
+
+/* footer */
+footer{
+ color: black;
+}
+
+
+
+
+footer ul{
+    background-color: bisque;
+    color: black;
+    columns: 3; 
+    padding: 30px;
+    text-align: center;
+    margin-top: 3px;
+    border: 1px double black;
+}
+
+
+
+
+
